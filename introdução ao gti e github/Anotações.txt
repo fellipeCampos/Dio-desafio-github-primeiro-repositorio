@@ -12,3 +12,5 @@ Caminho
 * git add . ou -A = Adiciona tudo que estiver na pasta para ser commitado
 * git commit -m "Mensagem coerente com a alteração" = commita o projeto alterado ja deixando ele pronto para subir para o repositorio remoto
 * git push origin main (ou master)
+
+ULTIMAS ANOTAÇÕES REALIZADAS PARA ENTREGA DO DESAFIO
